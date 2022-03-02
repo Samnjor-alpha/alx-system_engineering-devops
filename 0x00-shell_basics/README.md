@@ -1,0 +1,1 @@
+show directory path
